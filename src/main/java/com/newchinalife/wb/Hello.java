@@ -9,4 +9,8 @@ public class Hello {
 	public static void n(){
 		
 	}
+	public static void n1(){
+		
+	}
+	
 }
